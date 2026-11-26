@@ -1,0 +1,8 @@
+# Compiled C++ executable
+main
+
+# macOS files
+.DS_Store
+
+# IDE settings
+.vscode/
